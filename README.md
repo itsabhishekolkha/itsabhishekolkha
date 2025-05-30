@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Abhishek Olkha]
+# 👋 Hey there! I'm Abhishek Olkha
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A;Let's+Build+Something+Amazing!+%F0%9F%92%A1)
