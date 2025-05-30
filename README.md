@@ -11,15 +11,15 @@
 
 ## 🌟 About Me
 
-```typescript
+```javascript
 const aboutMe = {
-    name: "Abhishek Olkha",
-    role: "Full Stack Developer",
+    name: "Abhishek olkha",
+    role: "Full Stack, iOS & MacOs Developer",
     location: "🌍 Your Location",
-    interests: ["AI/ML", "Web Development", "Open Source", "Cloud Computing"],
-    currentlyLearning: ["Next.js 14", "TypeScript", "Docker", "AWS"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄",
-    askMeAbout: ["React", "Node.js", "Python", "System Design"],
+    interests: ["iOS Development", "Web Development", "Open Source", "Mobile Apps"],
+    currentlyLearning: ["SwiftUI", "React Native", "MongoDB", "Firebase"],
+    funFact: "I debug with console.log and print() statements! 😄",
+    askMeAbout: ["Swift", "React", "Node.js", "Python", "iOS Development"],
     pronouns: "He/Him" // or your preferred pronouns
 };
 ```
@@ -33,43 +33,38 @@ const aboutMe = {
 <div align="center">
 
 ### 💻 Programming Languages
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend Development
+### 🎨 Frontend & Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 📱 Mobile Development
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
 
 ### 🔧 Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🗄️ Databases & Storage
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core_Data-007ACC?style=for-the-badge&logo=apple&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tools & Development Environment
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 </div>
 
@@ -79,29 +74,22 @@ const aboutMe = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsabhishekolkha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhishekolkha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&column=7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsabhishekolkha&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
+
+
 
 ## 📈 Contribution Graph
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsabhishekolkha&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -109,34 +97,16 @@ const aboutMe = {
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[Your Current Project]**
-- 🌱 Learning: **Advanced System Design & Microservices**
-- 👯 Looking to collaborate on: **Open Source Projects**
-- 🤔 Seeking help with: **Distributed Systems**
-- 💬 Ask me about: **React, Node.js, Python, AWS**
+- 🔭 Working on: **[Your iOS/Web Project Name]**
+- 🌱 Learning: **SwiftUI, React Native, MongoDB, Firebase**
+- 👯 Looking to collaborate on: **iOS Apps & Web Projects**
+- 🤔 Seeking help with: **Backend Architecture & Database Design**
+- 💬 Ask me about: **Swift, React, Node.js, Python, iOS Development**
 - 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- ⚡ Fun fact: **I love building both mobile and web experiences!**
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Build Scalable React Applications](https://yourblog.com/scalable-react)
-- [Understanding Docker Containers](https://yourblog.com/docker-guide)
-- [AWS Lambda Best Practices](https://yourblog.com/lambda-best-practices)
-- [JavaScript Performance Optimization](https://yourblog.com/js-performance)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎵 Currently Listening to
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/yourusername)
-
-</div>
-
----
 
 ## 🤝 Connect with Me
 
