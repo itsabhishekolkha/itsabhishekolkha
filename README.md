@@ -13,7 +13,7 @@
 
 ```typescript
 const aboutMe = {
-    name: "Your Name",
+    name: "Abhishek Olkha",
     role: "Full Stack Developer",
     location: "🌍 Your Location",
     interests: ["AI/ML", "Web Development", "Open Source", "Cloud Computing"],
