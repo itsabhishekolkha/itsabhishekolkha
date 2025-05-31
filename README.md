@@ -95,17 +95,6 @@ const aboutMe = {
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Working on: **[Your iOS/Web Project Name]**
-- 🌱 Learning: **SwiftUI, React Native, MongoDB, Firebase**
-- 👯 Looking to collaborate on: **iOS Apps & Web Projects**
-- 🤔 Seeking help with: **Backend Architecture & Database Design**
-- 💬 Ask me about: **Swift, React, Node.js, Python, iOS Development**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love building both mobile and web experiences!**
-
----
 
 
 ## 🤝 Connect with Me
@@ -113,9 +102,7 @@ const aboutMe = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekolkha555@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 
 </div>
@@ -126,26 +113,15 @@ const aboutMe = {
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/abhishekolkha)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abhishekolkha)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/itsabhishekolkha)
 
 </div>
 
 ---
-
-## 🎮 Fun Zone
-
-<div align="center">
-
-### 🐍 Snake Game (Contribution Graph)
-![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
-
-### 😄 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
 ### 📈 Profile Views
-![Profile views counter](https://komarev.com/ghpvc/?username=YourUsername&color=36BCF7&style=for-the-badge&label=Profile+Views)
+![Profile views counter](https://komarev.com/ghpvc/?username=itsabhishekolkha&color=36BCF7&style=for-the-badge&label=Profile+Views)
 
 </div>
 
