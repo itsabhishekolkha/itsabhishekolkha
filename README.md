@@ -15,12 +15,12 @@
 const aboutMe = {
     name: "Abhishek olkha",
     role: "Full Stack, iOS & MacOs Developer",
-    location: "🌍 Your Location",
-    interests: ["iOS Development", "Web Development", "Open Source", "Mobile Apps"],
+    location: "🌍 Jaipur, India",
+    interests: ["iOS & MacOS Development", "Web Development", "Open Source", "Mobile Apps"],
     currentlyLearning: ["SwiftUI", "React Native", "MongoDB", "Firebase"],
     funFact: "I debug with console.log and print() statements! 😄",
-    askMeAbout: ["Swift", "React", "Node.js", "Python", "iOS Development"],
-    pronouns: "He/Him" // or your preferred pronouns
+    askMeAbout: ["Swift", "React", "Node.js", "Python", "iOS & MacOS Development"],
+    pronouns: "He/Him"
 };
 ```
 
