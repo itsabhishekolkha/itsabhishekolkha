@@ -76,7 +76,7 @@ const aboutMe = {
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsabhishekolkha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhishekolkha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhishekolkha&layout=compact&theme=tokyonight&hide_border=true&langs_count=100)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsabhishekolkha&theme=tokyonight&hide_border=true)
 
@@ -101,7 +101,7 @@ const aboutMe = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekolkha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekolkha555@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 
